@@ -3,7 +3,7 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | ferly ardiansnyah |
+| **Nama** | ferly ardiansyah |
 | **NIM** | 312310448 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** | Bahasa Pemrograman |
