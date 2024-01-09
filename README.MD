@@ -282,4 +282,4 @@ oin-poin penting dari fungsi akhir():
 ```
 
 ### Hasil Program 
-<img src="">
+<img src="Screenshot 2024-01-09 185621.png">
